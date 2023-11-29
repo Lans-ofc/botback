@@ -1,6 +1,6 @@
 /*
-   Created By ArxzyDev
-   My Contact wa.me/6289513081052
+   Recode bY Lans-Ofc
+   My Contact wa.me/6283132749084
 */
 
 const {
