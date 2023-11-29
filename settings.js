@@ -1,6 +1,6 @@
 /*
-   Created By ArxzyDev
-   My Contact wa.me/6289513081052
+   Recode By Lans-ofc
+   My Contact wa.me/6283132749084
 */
 
 const fs = require('fs')
@@ -10,21 +10,21 @@ const chalk = require('chalk')
 global.lol = '' // https://api.lolhuman.xyz
 global.xzn = '' // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
-global.numberowner = '6289513081052' // Owner Utama
-global.owner = ['6289513081052', '6283838530788'] // Owner Lainnya
-global.namaowner = 'Arxzy お-ぎ' // Nama Owner
-global.premium = ["6289513081052"] // Premium User
-global.nobot = '6289513081052'
+global.numberowner = '6283132749084' // Owner Utama
+global.owner = ['6283132749084', '6283132749084'] // Owner Lainnya
+global.namaowner = 'LansOfc お-ぎ' // Nama Owner
+global.premium = ["6283132749084"] // Premium User
+global.nobot = '6283820901508'
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
-global.namabot = 'Arxzy-MD' // NickBot
+global.namabot = 'XYSBOT-MD' // NickBot
 global.typemenu = 'v2' // 'v1' > 'v2' > 'v3' > 'v4'
 global.typereply = 'v1' // 'v1' > 'v2'
-global.autoread = false // ReadChat
-global.autobio = false // AutoBio
+global.autoread = true // ReadChat
+global.autobio = true // AutoBio
 global.autoblok212 = true // AutoBlock Nomer +212
 global.onlyindo = false  // AutoBlock Selain Nomer Indo
 global.packname = 'Created By' // Watermark Sticker
-global.author = 'Arxzy ダ' // Watermark Sticker
+global.author = 'XYSBOT-maul ダ' // Watermark Sticker
 /* ~~~~~~~~~ MESSAGES ~~~~~~~~~ */
 global.mess = {
     done: 'Done ✅',
@@ -41,7 +41,7 @@ global.mess = {
 global.thumb = fs.readFileSync('./media/quoted.jpg')
 global.menu = fs.readFileSync('./media/menu.jpg')
 /* ~~~~~~~~~ EDITS LINK ~~~~~~~~~ */
-global.link = 'https://chat.whatsapp.com/LfBvDxQujrLHihSRI6TCIZ'
+global.link = 'https://chat.whatsapp.com/DeRF3ZCBaEOAUYIsVzDMD6'
 /* ~~~~~~~~~ END SYSTEM ~~~~~~~~~ */
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
